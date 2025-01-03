@@ -8,7 +8,7 @@ import random
 # Путь к файлу с зарегистрированными пользователями
 TOKENS_FILE = 'tokens.txt'
 OWNER_ID = '732069034'  # Замените на ваш ID владельца
-OWNER_TOKEN = 'https://oauth.vk.com/blank.html#access_token=vk1.a.uSDdPminkmyd-T3KJYgECmQ7BNpQayYmx9jQvo6eToenL8YWbZ5hKgW7WvYCA7fn-WcwGtSa8knUHyRF00fqNCo4geFB7PStQPs1w79QdtkfkDpnoS6enGhwCftoO4VaS9lk_89EG7z_vKw4Xzyvb52CM7-vZbLmKj4GTZx5qc0NgUUGCn37uIyHI3Uc5A72dMpQGIzF2fCaq-50YgUN7A&expires_in=0&user_id=732069034&email=Miron.plane@gmail.com'  # Замените на ваш токен владельца
+OWNER_TOKEN = 'vk1.a.uSDdPminkmyd-T3KJYgECmQ7BNpQayYmx9jQvo6eToenL8YWbZ5hKgW7WvYCA7fn-WcwGtSa8knUHyRF00fqNCo4geFB7PStQPs1w79QdtkfkDpnoS6enGhwCftoO4VaS9lk_89EG7z_vKw4Xzyvb52CM7-vZbLmKj4GTZx5qc0NgUUGCn37uIyHI3Uc5A72dMpQGIzF2fCaq-50YgUN7A&expires_in=0&user_id=732069034&email=Miron.plane@gmail.com'  # Замените на ваш токен владельца
 
 # Функция для загрузки токенов из файла
 def load_tokens():
