@@ -1,0 +1,5 @@
+ujson
+requests
+pillow
+vk_api
+termcolor
